@@ -16,7 +16,7 @@ def play_alarm_sound_function(): # defined function to play alarm post fire dete
 
 def send_mail_function(): # defined function to send mail post fire detection using threading
     
-    recipientmail = "localfirestation@gmail.com" # recipients mail
+    recipientmail = "localfirestation@gmail.com" # recipients mail/ please use a real email while testing
     recipientmail = recipientmail.lower() # To lower case mail
     
     try:
@@ -24,8 +24,8 @@ def send_mail_function(): # defined function to send mail post fire detection us
         
         server.ehlo()
         server.starttls()
-        server.login("senderemail@gmail.com", 'password') # Senders mail ID and password
-        server.sendmail('localfirestation@gmail.com', recipientmail, "Test mail Warning fire accident has been reported") # recipients mail with mail message
+        server.login("senderemail@gmail.com", 'password') # Senders mail ID and password / please use a real email while testing
+        server.sendmail('localfirestation@gmail.com', recipientmail, "Test mail Warning fire accident has been reported") # recipients mail with mail message / please use a real email while testing
         print("Alert mail sent sucesfully to {}".format(recipientmail)) # to print in consol to whome mail is sent
         server.close() ## To close server
         
