@@ -8,5 +8,7 @@ Functionalities similar to a household fire and flame detector.
 The  change is replace the flame sensor with a long range trained camera . 
 Camera will ensure more area coverage than the conventional fire detectors.
 
+Video on youtube link: https://youtu.be/tq8Wz6HiFtc
+
 The 2nd phase : To automate the process with any fire extinguisher.
 Thank You.
