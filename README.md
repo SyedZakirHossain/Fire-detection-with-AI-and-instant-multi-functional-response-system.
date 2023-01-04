@@ -1,4 +1,4 @@
-# Fire-detection-and-alart.
+# Fire-detection-and-alert.
 Hi ! Here i have tried to use open cv library to detect fire.
 Trained camera with Open CV, Computer vision will detect flame or  fire.
 If trained it can detect smoke also. 
