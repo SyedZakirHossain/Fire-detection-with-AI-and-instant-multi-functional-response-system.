@@ -1,7 +1,7 @@
 # Fire-detection-and-alert.
 Hi ! Here I have tried to use open cv library to detect fire.
 Trained camera with Open CV, Computer vision will detect flame or  fire.
-If trained it can detect smoke also. 
+ 
 Instantly  and  will automatically start  fire alarm, send  SMS, email  to fire station.
  
 Functionalities similar to a household fire and flame detector.
