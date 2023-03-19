@@ -27,7 +27,7 @@ By using computer vision technology, the system can identify flames and fire in 
 reducing the risk of false alarms and ensuring that the appropriate response is initiated quickly.<br>
 This can be particularly useful in large or complex facilities,
 where it can be difficult to pinpoint the location of a fire.<br>
-<h3 style="color:red;">In comparison to other AI-based fire detection solutions,
+<h3>In comparison to other AI-based fire detection solutions,
 our product has several advantages.</h3><br>
 <h3>Firstly:</h3><br> Our multi-functional response system is a key feature that helps to minimize the damage caused by fires, potentially saving property and lives.<br> Our system can activate a range of responses including ringing an alarm, activating signal lights, starting a smoke sucker fan, and turning on a water pump on the spot.<br> These responses can help to contain and extinguish the fire, reducing the risk of property damage and loss of life.<br>
 <h3>Secondly:</h3><br>Our product is user-friendly and easy to install.<br> Unlike other AI-based fire detection systems that require complex installation processes and may require extensive training for operation, our system is designed to be easy to install and operate, making it accessible to a wide range of customers.<br>
