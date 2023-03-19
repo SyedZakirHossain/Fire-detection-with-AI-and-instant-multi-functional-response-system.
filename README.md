@@ -35,8 +35,8 @@ our product has several advantages.</h3><br>
 our system is designed to be affordable for small and medium-sized businesses as well as large corporations and factories.
 In summary: Our proposed solution provides several advantages over traditional fire detection systems and other AI-based solutions, including more accurate and reliable fire detection, a multi-functional response system to minimize damage, user-friendly installation and operation, and competitive pricing.</h4>
 
-Please watch the video on youtube. Link : https://youtu.be/s10BgJhR4GM
+<h4>Please watch the video on youtube. Link : https://youtu.be/s10BgJhR4GM </h4>
 
-If trained, the camera can detect smoke also.
 
-Thank You.
+
+<h3>Thank You.</h3>
