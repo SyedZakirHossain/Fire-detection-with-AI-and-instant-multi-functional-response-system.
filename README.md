@@ -29,11 +29,11 @@ This can be particularly useful in large or complex facilities,
 where it can be difficult to pinpoint the location of a fire.<br>
 <h3 style="color:red;">In comparison to other AI-based fire detection solutions,
 our product has several advantages.</h3><br>
-<h3>Firstly,</h3><br> our multi-functional response system is a key feature that helps to minimize the damage caused by fires, potentially saving property and lives.<br> Our system can activate a range of responses including ringing an alarm, activating signal lights, starting a smoke sucker fan, and turning on a water pump on the spot.<br> These responses can help to contain and extinguish the fire, reducing the risk of property damage and loss of life.<br>
-<h3>Secondly,</h3><br> our product is user-friendly and easy to install.<br> Unlike other AI-based fire detection systems that require complex installation processes and may require extensive training for operation, our system is designed to be easy to install and operate, making it accessible to a wide range of customers.<br>
-<h3>Finally, </h3><br>our product is competitively priced. While some AI-based fire detection systems can be prohibitively expensive,
+<h3>Firstly:</h3><br> Our multi-functional response system is a key feature that helps to minimize the damage caused by fires, potentially saving property and lives.<br> Our system can activate a range of responses including ringing an alarm, activating signal lights, starting a smoke sucker fan, and turning on a water pump on the spot.<br> These responses can help to contain and extinguish the fire, reducing the risk of property damage and loss of life.<br>
+<h3>Secondly:</h3><br>Our product is user-friendly and easy to install.<br> Unlike other AI-based fire detection systems that require complex installation processes and may require extensive training for operation, our system is designed to be easy to install and operate, making it accessible to a wide range of customers.<br>
+<h3>Finally: </h3><br>Our product is competitively priced. While some AI-based fire detection systems can be prohibitively expensive,
 our system is designed to be affordable for small and medium-sized businesses as well as large corporations and factories.
-In summary, our proposed solution provides several advantages over traditional fire detection systems and other AI-based solutions, including more accurate and reliable fire detection, a multi-functional response system to minimize damage, user-friendly installation and operation, and competitive pricing.</h4>
+In summary: Our proposed solution provides several advantages over traditional fire detection systems and other AI-based solutions, including more accurate and reliable fire detection, a multi-functional response system to minimize damage, user-friendly installation and operation, and competitive pricing.</h4>
 
 Please watch the video on youtube. Link : https://youtu.be/s10BgJhR4GM
 
