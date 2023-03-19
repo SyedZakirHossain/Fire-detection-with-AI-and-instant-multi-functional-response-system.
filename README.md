@@ -18,7 +18,7 @@ Overall, the product provides a reliable and efficient fire detection and alarm 
 Send an email to the fire station (optional)
 Want to build an image classifier which can detect flame and fire ?
 
-<h5>The advantages of the product over the competition</h5>
+<h3>The advantages of the product over the competition</h3>
 Our proposed solution, which utilizes computer vision technology to detect flames and fire in real-time,<br>
 provides several advantages over traditional fire detection systems and other AI-based solutions.<br>
 Compared to traditional fire detection systems that rely on sensors to detect smoke or heat,
