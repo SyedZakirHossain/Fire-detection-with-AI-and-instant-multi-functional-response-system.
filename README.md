@@ -2,7 +2,7 @@
 Hi there !
 Fires are a serious threat to both life and property.
 According to the National Fire Protection Association, there were over 1.3 million fires reported in the United States in 2019 alone, resulting in over 3,700 deaths and $14.8 billion in property damage.
-One of the main challenges with fire incidents is detecting them early enough to prevent significant damage and loss of life.
+#One of the main challenges with fire incidents is detecting them early enough to prevent significant damage and loss of life.
 Traditional fire detection and alarm systems rely on sensors that detect smoke or heat, which can often result in false alarms or delayed response times. This can be particularly problematic in large or complex facilities, where it can be difficult to pinpoint the location of a fire.
 The product addresses this problem by utilizing computer vision technology to detect flames and fire in real-time, providing an immediate response to any fire incident. This technology provides a more accurate and reliable way to detect fires, reducing the risk of false alarms and ensuring that the appropriate response is initiated quickly. Additionally, the product's multi-functional response system helps to minimize the damage caused by fires, potentially saving property and lives.
 The multi-functional response system is a key feature of the product that helps to minimize the damage caused by fires, potentially saving property and lives. In addition to detecting fires, the system triggers a range of responses including ringing an alarm, activating signal lights, starting a smoke sucker fan, and turning on a water pump on the spot. These responses can help to contain and extinguish the fire, reducing the risk of property damage and loss of life.
