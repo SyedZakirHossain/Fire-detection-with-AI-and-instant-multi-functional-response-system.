@@ -34,6 +34,19 @@ our product has several advantages.</h3><br>
 <h3>Finally: </h3><br>Our product is competitively priced. While some AI-based fire detection systems can be prohibitively expensive,
 our system is designed to be affordable for small and medium-sized businesses as well as large corporations and factories.
 In summary: Our proposed solution provides several advantages over traditional fire detection systems and other AI-based solutions, including more accurate and reliable fire detection, a multi-functional response system to minimize damage, user-friendly installation and operation, and competitive pricing.</h4>
+<h2>Call to action for potential investors or customers:</h2>
+
+<h3>If you are an investor, we invite you to join us in bringing this innovative product to market. We believe that our solution has the potential to revolutionize the fire detection industry and provide real value to our customers. With your investment, we can accelerate product development, expand our marketing efforts, and grow our business to achieve profitability.</h3><br>
+
+<h3>If you are a potential customer, we invite you to contact us to learn more about our product and how it can benefit your organization. We believe that our solution offers several advantages over traditional fire detection systems and other AI-based solutions, and we are confident that we can provide a high-quality product and excellent customer service to meet your needs.</h3><br>
+Conclusion 
+<h3>In conclusion, our company has developed an innovative fire detection system that uses computer vision to detect flames and fire. Our multi-functional response system can help to minimize the damage caused by fires, potentially saving property and lives. We have identified a large and diverse market for our product, including B2G, B2B, and B2C customers in the United States, Canada, Europe, and the Middle East.<br>
+
+Our business model is designed to generate revenue and achieve profitability in the coming years. We are seeking funding to support product development, marketing, and hiring additional staff to support business operations. Our team is experienced and qualified to bring this product to market and achieve success in the industry.<br>
+
+We invite investors and potential customers to join us in bringing this innovative product to market. We believe that our solution has the potential to revolutionize the fire detection industry and provide real value to our customers. With your investment and support, we can achieve our vision of making the world a safer place.<br>
+
+
 
 <h4>Please watch the video on youtube. Link : https://youtu.be/s10BgJhR4GM </h4>
 
