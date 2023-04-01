@@ -1,5 +1,5 @@
-<h2> Fire-detection with AI and  instant multi-functional response system.</h2>
-Hi there !
+<h2> Fire detection with AI and  instant multi-functional response system.</h2>
+Hi there !!!
 Fires are a serious threat to both life and property.
 According to the National Fire Protection Association, there were over 1.3 million fires reported in the United States in 2019 alone, resulting in over 3,700 deaths and $14.8 billion in property damage.
 <h3>One of the main challenges with fire incidents is detecting them early enough to prevent significant damage and loss of life.</h3>
