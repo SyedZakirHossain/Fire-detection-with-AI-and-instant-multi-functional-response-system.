@@ -50,9 +50,9 @@ We invite investors and potential customers to join us in bringing this innovati
 
 <h4>Please watch the video on youtube. Link : https://youtu.be/s10BgJhR4GM </h4>
 
-<h4>Please watch our attempts towards achievement . Link :https://youtu.be/tq8Wz6HiFtc </h4>
+<h4>Please watch my attempts towards achievement . Link :https://youtu.be/tq8Wz6HiFtc </h4>
 
-<h4>Please watch our attempts towards achievement . Link :https://youtu.be/pnDzXaRQFSc  </h4>
+<h4>Please watch my attempts towards achievement . Link :https://youtu.be/pnDzXaRQFSc  </h4>
 
 
 <h3>Thank You.</h3>
