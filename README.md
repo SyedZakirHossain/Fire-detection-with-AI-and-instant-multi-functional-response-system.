@@ -1,8 +1,9 @@
 <h2> Fire detection with AI and  instant multi functional response system.</h2>
-![p](https://user-images.githubusercontent.com/63798914/231834940-c6c7e9f4-d081-489a-9283-867fd8b24a83.png)
 
 
 
+
+![p](https://user-images.githubusercontent.com/63798914/231835765-0a954039-edb3-4df5-9031-4c9b9846c0ea.png)
 
 
 
