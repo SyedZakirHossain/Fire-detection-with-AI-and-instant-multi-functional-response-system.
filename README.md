@@ -3,7 +3,6 @@
 
 
 
-![q](https://user-images.githubusercontent.com/63798914/231834664-04613d9b-be40-4eb8-8f90-efae8ad3dbec.png)
 
 
 
@@ -62,5 +61,9 @@ We invite investors and potential customers to join us in bringing this innovati
 
 <h4>Please watch my attempts towards achievement . Link :https://youtu.be/pnDzXaRQFSc  </h4>
 
+ 
+![q](https://user-images.githubusercontent.com/63798914/231834664-04613d9b-be40-4eb8-8f90-efae8ad3dbec.png) 
+  
+  
 
 <h3>Thank You.</h3>
