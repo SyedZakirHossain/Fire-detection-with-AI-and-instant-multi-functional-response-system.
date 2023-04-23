@@ -11,6 +11,18 @@ Hi there !!
 Fires are a serious threat to both life and property.
 According to the National Fire Protection Association, there were over 1.3 million fires reported in the United States in 2019 alone, resulting in over 3,700 deaths and $14.8 billion in property damage.
 <h3>One of the main challenges with fire incidents is detecting them early enough to prevent significant damage and loss of life.</h3>
+<h2>Current Problem – Bangladesh context</h2>
+<h3>*  Fire service vehicles can’t enter into  many narrow  roads.</h3>
+<h3>*  Ladder can’t reach above 10th floor but there are  many 20 ,18, 15    story buildings .</h3>
+<h3>*  Insufficient / unavailable nearby  water resources i.e. pond, canals.</h3>
+<h3>*  24 /7 monitoring is not possible . So  very often  fail to inform  fire service  before spreading the fire.</h3>
+<h3>*  The assessment  period  before  the operation is very crucial,  the fire do not wait for anybody  but spreading  continuously.</h3>
+<h3>* * Spreading fire never wait for fire  fighters to come. * *</h3>
+<h3>Challenge : Detecting the fire incident early enough and take instant action. </h3>
+![image](https://user-images.githubusercontent.com/63798914/233833772-50d4ab16-04fd-40e0-9cbb-8ee8565c3df3.png)
+
+![image](https://user-images.githubusercontent.com/63798914/233833530-027bafb7-e3cf-4895-9267-019ea3b5bd82.png)
+
 Traditional fire detection and alarm systems rely on sensors that detect smoke or heat, which can often result in false alarms or delayed response times. This can be particularly problematic in large or complex facilities, where it can be difficult to pinpoint the location of a fire.
 The product addresses this problem by utilizing computer vision technology to detect flames and fire in real-time, providing an immediate response to any fire incident. This technology provides a more accurate and reliable way to detect fires, reducing the risk of false alarms and ensuring that the appropriate response is initiated quickly. Additionally, the product's multi-functional response system helps to minimize the damage caused by fires, potentially saving property and lives.
 <h3>The multi-functional response system is a key feature of the product that helps to minimize the damage caused by fires, potentially saving property and lives.<br> In addition to detecting fires, the system triggers a range of responses including ringing an alarm, activating signal lights, starting a smoke sucker fan, and turning on a water pump on the spot.<br> These responses can help to contain and extinguish the fire, reducing the risk of property damage and loss of life.</h3><br>
