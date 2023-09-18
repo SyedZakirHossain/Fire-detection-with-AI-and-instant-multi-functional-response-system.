@@ -1,4 +1,4 @@
-<h2> Fire detection with AI and automatic  instant multi functional response system !</h2>
+<h2> Fire detection with AI - Computer Vision  and automatic  instant multi functional response system !</h2>
 
 
 
